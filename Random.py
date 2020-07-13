@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jul 12 12:14:11 2020
-
+#predicting the salary of person of level 6.5 using Random_Forest_Regression
 @author: Prathvi
 """
 import numpy as np
